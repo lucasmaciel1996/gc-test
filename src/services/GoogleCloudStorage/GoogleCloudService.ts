@@ -19,7 +19,7 @@ export default class GoogleCloudService implements FileUploadInterface{
                             ),
                     projectId
         })
-        this.bucket = this.storage.bucket(bucketName);
+        this.bucket = this.storage.bucket(bucketName).;
     }
     async upload({file, destination}: FileUploadResquest): Promise<FileUploadResponse> {
         let status = false;
