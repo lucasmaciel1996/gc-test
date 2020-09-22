@@ -1,12 +1,1 @@
-{
-    "type": "service_account",
-    "project_id": "wiser-back-wsp-290012",
-    "private_key_id": "a31285abfb96b6cbd1481c4e674edbe101f83774",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCch5Aq/zhJWNty\nfA98cUz/ZzoJ9lxMrMjTpIKEqakPJ7GCFrWNSXg3XxY5H0ukZevtx63wvnwcdxmB\nULatFqZdo5oXCG0nkERq0gRGTu82zJ4wdrDsbfhoxpmx9FFBSYaZZ8klXuhPSyWs\nNuWHIiTZZETItlK4ktmMYHKGZ5b8pdpy5V7JYSv6kB9UmGV8ATL9l749kuCc1CN2\nZji7orwLJY7dYLksqhh7AccItvJew2h30oCpFWY2DJH9vel4H9Wl3MkX6IVx7rh/\ndjFz4J+tK9zDFMv1kG4UBjahKeZvCX7MDPAhEWa6EA2RpMipweOd5xebmUjpg/Oy\npy3/WlPtAgMBAAECggEADXNaU7eJ6+BmcX7W125NAlPc5hpB2DAVmco0xP2aeQjq\nKGMwx3e2v6gi54myHR0wM61i9W48IzenMDhYjXGGBKnlH3GQuUOcykKw+otLfXDP\nCLV9go0r0wt6pyx3BwTKCJVyI9n1Khf4OfifRKHa4ZHLyPH4R1zaTavEBTSsAgDq\ngW2pP6wdruH9QUYyfQ2xcrbRyoSDdmxsTtFlzIxpCzMUcL3bBouJMXKP46ZuRVXo\nJoqPagRVluW0+OBe7/MOhFl7MPvCGOTuc5tZ68lnenrMHaK5jENCnR5UEsPJv8JZ\nxjX8i1rbUPtApj1IW+71O5oG2pa/EIXpiLTIIWSbaQKBgQDJ9ZA19sDlgGcXdTAx\n6Mt3zWNrQq2aWuEg/Hz/XL9pjMh6oGAUXR1ToFmL6vGDI/PtHSe8qq35olwxc0js\nQwaO2u4kzkSjA6lmtU62EXEtwEP6Se4sDMIvQoFpWeiWHca7z0du41IdhA74B4qr\nichPQA0aHnmdmoslkKEyJ+TlKwKBgQDGagO9t9phpuMu5AhCjjzWEAa7+zWEdK9x\nwUZibjmZ+JEQEHVoeqntqrgr2dxnQgoOCP4Zz1uINruHf7jypYsZizNScUpt1ESD\nRx4VpyAb8VkexFYQrCojrAlysefGYfwWQjlCs/ua7uaNt2+CxIuAI8WfYaF+gIyY\nTQxmljPPRwKBgGFBaBkUov/iPcMGJBdky9b9iYr1qTRT32ZLMMaom2Tw7vpekOY9\nkQnchkLi+Tr17VmaWLB6YR1+GneV1OAxxs60j0oaKuN1t/ZGCYmUDLTDifjV8WQ1\nIK4xkLBzI5Zm8HUw9G1p+vlLxwmaWCUTTOsdJTIWyuoiqi+E3puQqqHRAoGAPceI\nvqvebYV/O3x5LfAH9UcsMZ/4e/OxJSRe/AsCGHUTBgN56zw2aPA9RDojrGsdol0e\ncX7lKzaPkZMtTTBKbXuwUT1BRY1Qf+fG8EsHbmvpqfDMM4jH3i+VCYdneZfM3Elm\nduR/tTApzXqOWBNGtHFu+T92/2KbZFipQdAG9cUCgYEAlGdaSp/8kbwNfXV6a2yW\nxd/F1PuT6DnLbFm9qgWWoKv2x8Is8C/tI5Yxi8/oWmNqo9D7q+sGGRdHC5eN1HvB\nVzjFfsEDYQgXDYIxtvAERCoinuZCvAzQ+HiKu1mBbbFY9D/4g93ns2Eyjj93d6E3\nLw+AF4cmMq+ZLQxIkc6wM8Y=\n-----END PRIVATE KEY-----\n",
-    "client_email": "lucas333maciel-gmail-com@wiser-back-wsp-290012.iam.gserviceaccount.com",
-    "client_id": "111931025211849206887",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lucas333maciel-gmail-com%40wiser-back-wsp-290012.iam.gserviceaccount.com"
-}
+{}
